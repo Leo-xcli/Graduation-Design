@@ -1,0 +1,1 @@
+cmd_/home/uftp1/FL2440/drivers/pwm/mini2440_pwm.ko := arm-linux-ld -EL -r  -T /home/uftp1/FL2440/linux-2.6.32.2_cong/scripts/module-common.lds --build-id -o /home/uftp1/FL2440/drivers/pwm/mini2440_pwm.ko /home/uftp1/FL2440/drivers/pwm/mini2440_pwm.o /home/uftp1/FL2440/drivers/pwm/mini2440_pwm.mod.o
